@@ -29,15 +29,6 @@
 
 ---
 
-## 🏅 Achievements & Certifications
-
-- AI Agents Fundamentals, Hugging Face (2025)
-- Python & SQL for Data Science, Scaler
-- Top 25 Startup, Innovation Challenge
-- 2nd Place, Technoriti TechFest'23
-- Project Impact: Slashed 65% manual review for legal teams (Secure Doc project)
-
----
 
 ## ⚒️ Skills & Technologies
 
