@@ -61,12 +61,5 @@
 
 ---
 
-### 🌟 Dynamic Widgets (optional, advanced usage)
-- Add [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- Add [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
-- Add visitor/card counters or Spotify widgets if you wish!
-
----
-
 <i>"Learning by building, building by solving."</i>
 ---
