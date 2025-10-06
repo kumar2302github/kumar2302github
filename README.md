@@ -12,13 +12,6 @@ Let's connect if you're building something meaningful! 🚀
 - **Generative AI & LLMs:** LangChain, LangGraph, Gemini API, Prompt Engineering, RAG, BERT, LayoutLM, LORA/PEFT
 - **Deployment:** Docker, FastAPI, Streamlit
 
-## Achievements
-- 🏅 AI Agents Fundamentals, Hugging Face (2025)
-- 🏅 Python & SQL for Data Science, Scaler
-- 🏅 Top 25 Startup Idea, Startup Bihar Innovation Challenge
-
----
-
 ### Featured Projects
 - **Multimodal Mood Watcher:** AI agent for facial and speech emotion recognition
 - **RAG Powered Chatbot for YouTube:** Hybrid retrieval, reduces information search time by 70%
